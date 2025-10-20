@@ -11,7 +11,7 @@ def load_users():
     return df
 
 # --- UI ---
-st.image("logo.png", width=200)  # Optional logo
+st.image("logo_cda47.jpg", width=200)  # Optional logo
 st.title("🔒 Secure Login")
 
 username = st.text_input("👤 Username")
